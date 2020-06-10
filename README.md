@@ -1,5 +1,6 @@
 # Fuga esp input switch
 
+OBS: PCB Skal være 1mm ellers vil knapperne sidde for højt. 
 
 Parts list:
 
